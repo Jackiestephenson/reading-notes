@@ -15,5 +15,5 @@ Growth mindset is knowing you can learn any skill or behavior if you put work in
 
 I'm a mom who is excited to learn a new skill and hopefully jumpstart her career in the tech field. 
 
-[https://github.com/Jackiestephenson] 
+[https://github.com/Jackiestephenson] (https://github.com/Jackiestephenson)
    
