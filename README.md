@@ -39,3 +39,10 @@ You can use asterisks, dashes, or plus signs to add an unordered bullet point li
 * this is a list
 + in no particular order
 - just a bullet point list
+
+
+
+# Reading 02 The Coder's Computer
+
+Text editors are a cruical tool and customizeable depending on the one you choose. They can have different lighting and text colors to help elleviate eye strain, and to make it easier to see errors. Computers have built in text editors (word pad, text edit, or ged it)
+
