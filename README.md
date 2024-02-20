@@ -44,5 +44,26 @@ You can use asterisks, dashes, or plus signs to add an unordered bullet point li
 
 # Reading 02 The Coder's Computer
 
+
 Text editors are a cruical tool and customizeable depending on the one you choose. They can have different lighting and text colors to help elleviate eye strain, and to make it easier to see errors. Computers have built in text editors (word pad, text edit, or ged it)
+
+It can be helpful to have multiple terminals open at once. ls short for list shows you where you are. pwd means Print Working Directory. 
+
+~ is a shortcut to your directory, . is in reference to current directory, .. is in reference to a parent directory. cd means change directory. File tells you what type of file it is. ls-a will show hidden files. 
+
+1. -code completion, syntax highlighting, a variety of themes, and lots of extensions available.
+
+2.pwd- writes out full path name
+  ls- lists files
+  cd- changes directory
+  mkdir- makes new directory
+  touch- creates empty file
+
+3. 1. change directory to projects
+   2. make a new directory called new directory
+  
+   3. ;
+   4. change directory to parent directory
+   5. lists opening a new project.
+
 
