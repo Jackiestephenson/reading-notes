@@ -1,4 +1,15 @@
-# My Reading Journal
+# Jacqueline Stephenson's Reading Journal
+
+Hello, follow along with me as I learn the fundamentals fo coding. This site is for my reading notes and journal logs for code 102 and 201.
+
+## Table of contents
+
+## Code 102 Reading Notes
+### 01
+### 02
+### 03
+### 04
+
 
 ### My reading journal for Code Fellows
 
