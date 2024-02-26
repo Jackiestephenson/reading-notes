@@ -6,9 +6,9 @@ Hello, follow along with me as I learn the fundamentals of coding. This site is 
 
 ## Code 102 Reading Notes
 
-### 01 [Class01](C:\Users\14058\codefellows\reading-notes\Class01)
+### 01 [Class01](https://github.com/Jackiestephenson/reading-notes/blob/7f464452b7117ba62f54e4013168fc85a7ea42cb/Class01)
 
-### 02 [Class02](C:\Users\14058\codefellows\reading-notes\Class02)
+### 02 [Class02](https://github.com/Jackiestephenson/reading-notes/blob/7f464452b7117ba62f54e4013168fc85a7ea42cb/Class02)
 
 ### 03
 
