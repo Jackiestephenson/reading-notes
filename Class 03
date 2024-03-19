@@ -1,0 +1,21 @@
+# Reading 03 Revisions and the CLoud
+
+## 1. What is version control?
+
+Version Control is the practice that tracks changes as people or teams work on projects together.
+
+## 2. What is cloning in Git?
+
+Cloning points you to an existing github repo, it connects your terminal and github repos.
+
+## 3. What is the command to track and stage files?
+
+' Git add ' is the command to track and stage files.
+
+## 4. What is the command to take a snapshot of your changed files?
+
+The command you use to take a snap shot is ' Git Commit '
+
+## 5. What is the command to send your changed files to Github?
+
+You send your changed files to Github using the command ' git push origin main '.

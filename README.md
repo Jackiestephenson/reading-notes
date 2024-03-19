@@ -10,7 +10,7 @@ Hello, follow along with me as I learn the fundamentals of coding. This site is 
 
 ### 02 [Class02](https://github.com/Jackiestephenson/reading-notes/blob/7f464452b7117ba62f54e4013168fc85a7ea42cb/Class02)
 
-### 03
+### 03 
 
 ### 04
 
