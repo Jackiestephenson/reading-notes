@@ -12,7 +12,7 @@ Hello, follow along with me as I learn the fundamentals of coding. This site is 
 
 ### 03 [Class03](https://github.com/Jackiestephenson/reading-notes/blob/main/Class%2003)
 
-### 04 [Class04]()
+### 04 [Class04](https://github.com/Jackiestephenson/reading-notes/blob/main/Class04)
 
 ### 05
 
