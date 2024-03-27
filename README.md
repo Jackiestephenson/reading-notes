@@ -10,9 +10,9 @@ Hello, follow along with me as I learn the fundamentals of coding. This site is 
 
 ### 02 [Class02](https://github.com/Jackiestephenson/reading-notes/blob/7f464452b7117ba62f54e4013168fc85a7ea42cb/Class02)
 
-### 03 [Class03](C:\Users\14058\codefellows\reading-notes\Class 03)
+### 03 [Class03](https://github.com/Jackiestephenson/reading-notes/blob/main/Class%2003)
 
-### 04
+### 04 [Class04]()
 
 ### 05
 

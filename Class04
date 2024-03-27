@@ -1,0 +1,17 @@
+# Reading 04
+
+## 1. What is HTML and why do we use it?
+
+HTML means Hypertext Markup Language. Its a lanuage used in programming to structure content for websites.
+
+## 2. What are the 3 main parts of an HTML element?
+
+The 3 main parts are the start tag, some sort of content, and the end tag.
+
+## 3. What is it called when you give an element extra information?
+
+Its called the title attribute.
+
+## 4. What is a semantic element?
+
+The semantic element contains the meaning or purpose for the code.
